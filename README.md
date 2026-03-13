@@ -1,12 +1,18 @@
 Olá! Eu sou o Leandro 👋
 
-Sou um estudante de 15 anos apaixonado por tecnologia e programação! Atualmente, estou cursando Desenvolvimento de Sistemas no Colégio Augustus, em Sabará. 🚀
+Sou um estudante de 16 anos apaixonado por tecnologia e programação! Atualmente, estou cursando Desenvolvimento de Sistemas no Colégio Augustus, em Sabará. 🚀
 
 💻 O que estou aprendendo:
 
-HTML 🌐
+🌐HTML 
 
-CSS 🎨
+Python
+
+JavaScript
+
+React
+
+CSS 
 
 VS Code 🖥️
 
@@ -32,4 +38,4 @@ Compartilhar minha jornada e evolução aqui no GitHub
 
 📧 Email: Leandrojo428@gmail.com
 
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução! 😃
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!
