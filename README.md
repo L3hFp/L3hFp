@@ -1,41 +1,125 @@
-Olá! Eu sou o Leandro 👋
+# 👋 Olá! Eu sou o Leandro
 
-Sou um estudante de 16 anos apaixonado por tecnologia e programação! Atualmente, estou cursando Desenvolvimento de Sistemas no Colégio Augustus, em Sabará. 🚀
+💻 Desenvolvedor Full Stack
 
-💻 O que estou aprendendo:
+🎓 Técnico em Desenvolvimento de Sistemas
 
-🌐HTML 
+📍 Sabará - MG | Brasil
 
-Python
+---
 
-JavaScript
+## 🚀 Sobre mim
 
-React
+Sou Desenvolvedor Full Stack com formação técnica em Desenvolvimento de Sistemas.
 
-CSS 
+Tenho experiência no desenvolvimento de aplicações web completas, utilizando frontend, backend e banco de dados.
 
-VS Code 🖥️
+Busco minha primeira oportunidade profissional para aplicar meus conhecimentos, evoluir como desenvolvedor e contribuir em projetos reais.
 
-📌 Sobre mim:
+---
 
-🎓 Estudante de Desenvolvimento de Sistemas
+# 🛠️ Tecnologias
 
-🌍 Moro em Sabará, MG
+### Front-end
 
-🚀 Buscando aprimorar minhas habilidades em programação
+- React
+- Vue.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
 
-📚 Sempre aberto a aprender coisas novas!
+### Back-end
 
-🚀 Meus objetivos:
+- Node.js
+- Express
+- C#
+- Python
 
-Aprender JavaScript e aprofundar meus conhecimentos em front-end
+### Banco de Dados
 
-Criar meus primeiros projetos práticos
+- MongoDB
+- PostgreSQL
 
-Compartilhar minha jornada e evolução aqui no GitHub
+### Ferramentas
 
-🌎 Onde me encontrar:
+- Git
+- GitHub
+- VS Code
+- Vite
 
-📧 Email: Leandrojo428@gmail.com
+---
 
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!
+# 📂 Principais Projetos
+
+## 🛒 Sistema de Loja Virtual
+
+Sistema completo contendo:
+
+- Login de usuários
+- Cadastro
+- Produtos
+- Carrinho de compras
+- Sistema de notícias
+- Painel administrativo
+- Integração com pagamento via PIX
+
+Tecnologias utilizadas:
+
+- React
+- Node.js
+- MongoDB
+
+---
+
+## 💳 Sistema Bancário
+
+Aplicação para gerenciamento de contas bancárias.
+
+Funcionalidades:
+
+- Cadastro de clientes
+- Depósitos
+- Saques
+- Transferências
+- Histórico
+
+---
+
+## 📊 APIs REST
+
+Desenvolvimento de APIs utilizando:
+
+- Express
+- Node.js
+- MongoDB
+- PostgreSQL
+
+---
+
+# 🎯 Objetivo
+
+Atualmente busco minha primeira oportunidade como Desenvolvedor Full Stack para adquirir experiência profissional e crescer na área de tecnologia.
+
+---
+
+# 📚 Atualmente estudando
+
+- Docker
+- Linux
+- AWS
+- Arquitetura de Software
+- Clean Code
+
+---
+
+# 📫 Contato
+
+📧 Email: leandrofjo428@gmail.com
+
+🐙 GitHub:
+https://github.com/L3hFp
+
+---
+
+⭐ Obrigado por visitar meu perfil!
